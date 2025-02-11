@@ -93,7 +93,7 @@ rule CXX_STATIC_LIBRARY_LINKER__exo_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\m.maurel\Documents\GitHub\FirstCMakeProject\test -BC:\Users\m.maurel\Documents\GitHub\FirstCMakeProject\test\out\build\x86-debug
+  command = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\m.maurel\Documents\GitHub\OMaxMaxence.github.io\test -BC:\Users\m.maurel\Documents\GitHub\OMaxMaxence.github.io\test\out\build\x86-debug
   description = Re-running CMake...
   generator = 1
 

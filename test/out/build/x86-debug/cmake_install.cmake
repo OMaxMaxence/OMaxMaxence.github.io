@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test
+# Install script for directory: C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/install/x86-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/install/x86-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/build/x86-debug/src/cmake_install.cmake")
-  include("C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/build/x86-debug/include/cmake_install.cmake")
+  include("C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/build/x86-debug/src/cmake_install.cmake")
+  include("C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/build/x86-debug/include/cmake_install.cmake")
 
 endif()
 
@@ -47,5 +47,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/build/x86-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/build/x86-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

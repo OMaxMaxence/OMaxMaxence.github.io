@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/include
+# Install script for directory: C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/install/x86-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/install/x86-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

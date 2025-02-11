@@ -1,2 +1,2 @@
-C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
-C:/Users/m.maurel/Documents/GitHub/FirstCMakeProject/test/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/m.maurel/Documents/GitHub/OMaxMaxence.github.io/test/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
